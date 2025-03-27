@@ -7,7 +7,9 @@
 // List<string> listaDeNomes = new List<string>();
 // OU
 
-// List<string> listaDeNomes2 = ["Lia Mendes", "Thalita Neves", "Bjork"];
+//List<string> listaDeNomes2 = ["Lia Mendes", "Thalita Neves", "Bjork"];
+//using POO;
+
 //List<string> listaDeNomes2 = new();
 
 //listaDeNomes2.Add("Lia Mendes");
@@ -19,7 +21,7 @@
 //    Console.WriteLine(item);
 //}
 
-// listaDeNomes2.Remove("Vinicio");
+//listaDeNomes2.Remove("Vinicio");
 
 // POO - Programação Orientada a Objetos
 
@@ -35,67 +37,135 @@
 
 // Objeto - Instancia de uma Classe - Especifica
 // Todo objeto tem esse formato
-//using POO;
+using POO;
 
-//Carro carro1 = new Carro();
-//// Para acessar informações do objeto, eu uso o "."
-//carro1.modelo = "HB20";
-//carro1.marca = "Hyundai";
-//carro1.anoFabricacao = 2024;
-//carro1.cor = "Azul";
+Carro carro1 = new Carro();
+// Para acessar informações do objeto, eu uso o "."
+carro1.modelo = "HB20";
+carro1.marca = "Hyundai";
+carro1.anoFabricacao = 2024;
+carro1.cor = "Azul";
 
-//carro1.Andar();
+carro1.Andar();
 
-//carro1.Parar();
+carro1.Parar();
 
 //// Crie mais 2 carros
 
-//Carro carro2 = new Carro();
+Carro carro2 = new Carro();
 
-//carro2.modelo = "BYD Song Pro";
-//carro2.marca = "Build Your Dreams";
-//carro2.anoFabricacao = 2025;
-//carro2.cor = "Preto";
+carro2.modelo = "BYD Song Pro";
+carro2.marca = "Build Your Dreams";
+carro2.anoFabricacao = 2025;
+carro2.cor = "Preto";
 
-//carro2.Andar();
+carro2.Andar();
 
-//carro2.Parar();
+carro2.Parar();
 
-//Carro carro3 = new Carro();
+Carro carro3 = new Carro();
 
-//carro3.modelo = "Corolla Cross XRV";
-//carro3.marca = "Toyota";
-//carro3.anoFabricacao = 2025;
-//carro3.cor = "Prata";
+carro3.modelo = "Corolla Cross XRV";
+carro3.marca = "Toyota";
+carro3.anoFabricacao = 2025;
+carro3.cor = "Prata";
 
-//carro3.Andar();
+carro3.Andar();
 
-//carro3.Parar();
+carro3.Parar();
 
-//// Guardar carros numa lista
-//List<Carro> carros = new List<Carro>();
-//carros.Add(carro1);
-//carros.Add(carro2);
-//carros.Add(carro3);
+// Guardar carros numa lista
+List<Carro> carros = new List<Carro>();
+carros.Add(carro1);
+carros.Add(carro2);
+carros.Add(carro3);
 
 // 1 - Criando uma Classe "Livro" e Instanciando um Objeto
 // Crie uma classe chamada `Livro` com os seguintes atributos:
 
-using POO;
+//// Jeito abreviado 
+Livro livro = new Livro()
+{
+    titulo = "Assim Falou Zaratustra",
+    autor = "Friedrich Nietzsche",
+    paginas = 288
+};
 
-Livros livros = new Livros();
+//// Jeito não abreviado
 
-livros.titulo = "Assim Falou Zaratustra";
-livros.autor = "Friedrich Nietzsche";
-livros.paginas = 288;
+Livro livro1 = new Livro();
 
-Livros livros2 = new Livros();
+livro1.titulo = "Assim Falou Zaratustra";
+livro1.autor = "Friedrich Nietzsche";
+livro1.paginas = 288;
+
+Livro livros2 = new Livro();
 
 livros2.titulo = "Macunaíma";
 livros2.autor = "Mario de Andrade";
 livros2.paginas = 188;
 
-Console.WriteLine(livros.titulo);
-Console.WriteLine(livros.autor);
+Console.WriteLine(livro1.titulo);
+Console.WriteLine(livro1.autor);
 
+// 4 Pilates da POO
 
+// Classe e Objeto
+// Classe é a definição (molde usado) Ex.: Forma de bolo redonda
+// Objeto - Instancia da classe - O bolo redondo :)
+
+// 2.Criando e Utilizando um Objeto "Aluno"
+// Crie uma classe chamada `Aluno` com os seguintes atributos:
+
+Aluno aluno = new Aluno();
+
+aluno.nome = "Thalita Neves";
+aluno.idade = 29;
+aluno.notaFinal = 7.8;
+
+Aluno aluno2 = new Aluno()
+{
+    nome = "Lia Mendes",
+    idade = 39,
+    notaFinal = 8.9
+};
+
+// 3.Criando uma Classe "Produto" e Trabalhando com Objetos
+// Crie uma classe chamada `Produto` com os seguintes atributos:
+
+Produto produto = new Produto();
+
+produto.nome = "Macarrão Barilla";
+produto.preco = 4.99;
+produto.quantidadeEmEstoque = 120;
+
+Console.WriteLine(produto.CalcularTotal());
+
+// Ferramentas - Formas de Trabalhar com POO
+
+// Encapsulamento e Herança
+
+// Abstração e Polimorfismo
+
+// Encapsulamento - Esconder comportamentos e atributos
+// Evitar que sejam acessados diretamente
+// Conta Bancária (Saldo)
+// Sacar() - Depositar() podem acessar o saldo
+// Ex.: conta.saldo = 3000;
+// Vantagens:
+// 1 - Esconder atributos/metodos/classe
+// 2 - Defino regras para alteração ou listagem
+
+// Existem 4 palavras possíveis:
+//// public - Esse atributo/metodo/classe pode ser acessado por qualquer um - Atributos, metodos e classes
+///
+//// private - Esse atributo/metodo só pode ser acessado dentro dele mesmo, onde foi criado
+///
+//// protected/internal -  atributo/metodo/classe só pode ser acessado por ele mesmo e por sua classe pai
+
+// Get - metodo para pegar um atributo privado
+// Set - é o metodo para alterar um atributo privado
+
+carro1.SetModelo("Fiesta");
+
+Console.WriteLine(carro1.GetModelo());

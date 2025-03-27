@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fic\\source\\repos\\POO\\",
+  "WorkspaceRootPath": "C:\\Users\\fic\\Documents\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D605996C-2D19-48EA-AB28-87AEDBF7392A}|POO\\POO.csproj|c:\\users\\fic\\source\\repos\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D605996C-2D19-48EA-AB28-87AEDBF7392A}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fic\\Documents\\POO\\POO\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:POO\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D605996C-2D19-48EA-AB28-87AEDBF7392A}|POO\\POO.csproj|c:\\users\\fic\\source\\repos\\poo\\poo\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D605996C-2D19-48EA-AB28-87AEDBF7392A}|POO\\POO.csproj|solutionrelative:poo\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fic\\Documents\\POO\\POO\\Carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:POO\\Carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D605996C-2D19-48EA-AB28-87AEDBF7392A}|POO\\POO.csproj|c:\\users\\fic\\source\\repos\\poo\\poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D605996C-2D19-48EA-AB28-87AEDBF7392A}|POO\\POO.csproj|solutionrelative:poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fic\\Documents\\POO\\POO\\Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:POO\\Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fic\\Documents\\POO\\POO\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:POO\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fic\\Documents\\POO\\POO\\Livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:POO\\Livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Livros.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Livros.cs",
-              "RelativeDocumentMoniker": "POO\\Livros.cs",
-              "ToolTip": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Livros.cs",
-              "RelativeToolTip": "POO\\Livros.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T00:44:06.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Carro.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Carro.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\POO\\POO\\Carro.cs",
               "RelativeDocumentMoniker": "POO\\Carro.cs",
-              "ToolTip": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Carro.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\POO\\POO\\Carro.cs",
               "RelativeToolTip": "POO\\Carro.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T00:03:45.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T00:03:45.031Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\POO\\POO\\Program.cs",
               "RelativeDocumentMoniker": "POO\\Program.cs",
-              "ToolTip": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\POO\\POO\\Program.cs",
               "RelativeToolTip": "POO\\Program.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAkwGIAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAAKoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T22:46:25.342Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\POO\\POO\\Produto.cs",
+              "RelativeDocumentMoniker": "POO\\Produto.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\POO\\POO\\Produto.cs",
+              "RelativeToolTip": "POO\\Produto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:40:56.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\POO\\POO\\Aluno.cs",
+              "RelativeDocumentMoniker": "POO\\Aluno.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\POO\\POO\\Aluno.cs",
+              "RelativeToolTip": "POO\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:34:16.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\POO\\POO\\Livro.cs",
+              "RelativeDocumentMoniker": "POO\\Livro.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\POO\\POO\\Livro.cs",
+              "RelativeToolTip": "POO\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:44:06.657Z"
             }
           ]
         }

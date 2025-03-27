@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace POO
 {
-    class Livros
+    class Livro
     {
         public string titulo;
         public string autor;
