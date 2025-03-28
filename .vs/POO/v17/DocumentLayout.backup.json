@@ -1,26 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fic\\source\\repos\\POO\\",
+  "WorkspaceRootPath": "C:\\Users\\fic\\Documents\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D605996C-2D19-48EA-AB28-87AEDBF7392A}|POO\\POO.csproj|c:\\users\\fic\\source\\repos\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D605996C-2D19-48EA-AB28-87AEDBF7392A}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8514BFC1-BB05-435F-9A3A-3C710DDD654D}|Exercicios\\Exercicios.csproj|c:\\users\\fic\\documents\\poo\\exercicios\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8514BFC1-BB05-435F-9A3A-3C710DDD654D}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D605996C-2D19-48EA-AB28-87AEDBF7392A}|POO\\POO.csproj|c:\\users\\fic\\source\\repos\\poo\\poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D605996C-2D19-48EA-AB28-87AEDBF7392A}|POO\\POO.csproj|solutionrelative:poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8514BFC1-BB05-435F-9A3A-3C710DDD654D}|Exercicios\\Exercicios.csproj|c:\\users\\fic\\documents\\poo\\exercicios\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8514BFC1-BB05-435F-9A3A-3C710DDD654D}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D605996C-2D19-48EA-AB28-87AEDBF7392A}|POO\\POO.csproj|c:\\users\\fic\\source\\repos\\poo\\poo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D605996C-2D19-48EA-AB28-87AEDBF7392A}|POO\\POO.csproj|solutionrelative:poo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D605996C-2D19-48EA-AB28-87AEDBF7392A}|POO\\POO.csproj|c:\\users\\fic\\source\\repos\\poo\\poo\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D605996C-2D19-48EA-AB28-87AEDBF7392A}|POO\\POO.csproj|solutionrelative:poo\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D605996C-2D19-48EA-AB28-87AEDBF7392A}|POO\\POO.csproj|c:\\users\\fic\\source\\repos\\poo\\poo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D605996C-2D19-48EA-AB28-87AEDBF7392A}|POO\\POO.csproj|solutionrelative:poo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8514BFC1-BB05-435F-9A3A-3C710DDD654D}|Exercicios\\Exercicios.csproj|c:\\users\\fic\\documents\\poo\\exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8514BFC1-BB05-435F-9A3A-3C710DDD654D}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Carro.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Carro.cs",
-              "RelativeDocumentMoniker": "POO\\Carro.cs",
-              "ToolTip": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Carro.cs",
-              "RelativeToolTip": "POO\\Carro.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAUAAAAAAAAAAAAAAA==",
+              "Title": "ContaPoupanca.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\POO\\Exercicios\\ContaPoupanca.cs",
+              "RelativeDocumentMoniker": "Exercicios\\ContaPoupanca.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\POO\\Exercicios\\ContaPoupanca.cs",
+              "RelativeToolTip": "Exercicios\\ContaPoupanca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T00:03:45.031Z",
+              "WhenOpened": "2025-03-28T00:45:43.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Program.cs",
-              "RelativeDocumentMoniker": "POO\\Program.cs",
-              "ToolTip": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Program.cs",
-              "RelativeToolTip": "POO\\Program.cs",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAAAKoAAAAmAAAAAAAAAA==",
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\POO\\Exercicios\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "Exercicios\\ContaCorrente.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\POO\\Exercicios\\ContaCorrente.cs",
+              "RelativeToolTip": "Exercicios\\ContaCorrente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T22:46:25.342Z",
+              "WhenOpened": "2025-03-28T00:45:24.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Produto.cs",
-              "RelativeDocumentMoniker": "POO\\Produto.cs",
-              "ToolTip": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Produto.cs",
-              "RelativeToolTip": "POO\\Produto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\POO\\Exercicios\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\POO\\Exercicios\\Program.cs",
+              "RelativeToolTip": "Exercicios\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T22:40:56.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Aluno.cs",
-              "RelativeDocumentMoniker": "POO\\Aluno.cs",
-              "ToolTip": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Aluno.cs",
-              "RelativeToolTip": "POO\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T22:34:16.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Livro.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Livro.cs",
-              "RelativeDocumentMoniker": "POO\\Livro.cs",
-              "ToolTip": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Livro.cs",
-              "RelativeToolTip": "POO\\Livro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T00:44:06.657Z",
+              "WhenOpened": "2025-03-28T00:42:11.904Z",
               "EditorCaption": ""
             }
           ]
