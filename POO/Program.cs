@@ -37,8 +37,6 @@
 
 //// Objeto - Instancia de uma Classe - Especifica
 //// Todo objeto tem esse formato
-using System;
-using POO;
 
 //Carro carro1 = new Carro();
 //// Para acessar informações do objeto, eu uso o "."
@@ -170,3 +168,15 @@ using POO;
 //carro1.SetModelo("Fiesta");
 
 //Console.WriteLine(carro1.GetModelo());
+
+// 4 Pilares
+
+// Banco de Dados - SQL Server
+
+// Desenvolvimento Backend
+
+// Polimorfismo depende de herança
+// Polimorfismo - Um metodo (com mesmo nome) pode ter implementação váriavel
+// Um metodo pode fazer coisas diferentes - Ex.: TrocarMarcha - CarroAutomatico/CarroManual
+
+// Abstração

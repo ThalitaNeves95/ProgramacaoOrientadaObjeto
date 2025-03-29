@@ -9,9 +9,10 @@ namespace Exercicios
 {
     class Gerente : Funcionario
     {
-        public double Bonificação(double valor)
+        public double Bonificar()
         {
-            return valor;
+            _salario *= 1.10;
+            return _salario;
         }
     }
 }

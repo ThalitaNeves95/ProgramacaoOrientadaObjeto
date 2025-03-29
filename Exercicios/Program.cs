@@ -6,13 +6,15 @@
 // - Um método público `VerSaldo()`, que retorna o saldo atual.
 // Crie um objeto dessa classe e faça algumas operações de depósito e saque.
 
-//using POO;
+using Exercicios;
+using Exercicios.ContasBancarias;
+using POO;
 
-//ContaBancaria account = new ContaBancaria();
+ContaBancaria account = new ContaBancaria();
 
-//account.Depositar(150);
-//account.Sacar(10);
-//Console.WriteLine($"Seu saldo é de: R$ {account.VerSaldo()}");
+account.Depositar(150);
+account.Sacar(10);
+Console.WriteLine($"Seu saldo é de: R$ {account.VerSaldo()}");
 
 // 2. Classe Funcionario
 // Crie uma classe `Funcionario` com:
@@ -22,11 +24,11 @@
 // - **GetSalario** → Retorna o Salario
 // Crie um objeto, defina um salário e exiba o valor usando `GetSalario()`.
 
-//Funcionario salario = new Funcionario();
+Funcionario salario = new Funcionario();
 
-//salario.SetSalario(1500);
+salario.SetSalario(1500);
 
-//Console.WriteLine($"O salario do funcionario é: R${salario.GetSalario():F2}");
+Console.WriteLine($"O salario do funcionario é: R${salario.GetSalario():F2}");
 
 // ### **Classe Retangulo**
 
@@ -40,12 +42,12 @@
 // - Um método público `CalcularArea()`, que retorna a área do retângulo.
 // Crie um objeto, defina largura e altura, e exiba a área calculada.
 
-//Retangulo retangulo = new Retangulo();
+Retangulo retangulo = new Retangulo();
 
-//retangulo.SetAltura(10);
-//retangulo.SetLargura(5);
+retangulo.SetAltura(10);
+retangulo.SetLargura(5);
 
-//Console.WriteLine($"A altura do retangulo é {retangulo.GetAltura()} e a largura é {retangulo.GetLargura()}");
+Console.WriteLine($"A área do retangulo é {retangulo.CalcularArea()}");
 
 // 4. Conta Corrente e Conta Poupança
 // Utilizando a classe `ContaBancaria` criada no exercício 1, crie duas subclasses:
@@ -53,8 +55,29 @@
 // - `ContaPoupanca`: possui um método `RenderJuros()`, que aumenta o saldo em 5%.
 // Crie instâncias de ambas as classes, faça depósitos e utilize seus métodos específicos.
 
-using Exercicios;
-
 ContaCorrente taxa = new ContaCorrente();
-
+taxa.Depositar(150);
 taxa.CobrarTaxa(10);
+taxa.VerSaldo();
+
+Console.WriteLine($"O saldo atualizado da sua conta corrente é R${taxa.VerSaldo()}");
+
+
+ContaPoupanca juros = new ContaPoupanca();
+
+juros.Depositar(150);
+juros.RenderJuros();
+juros.VerSaldo();
+
+Console.WriteLine($"O saldo atualizado da sua conta poupança é R${juros.VerSaldo()}");
+
+// 5. Funcionário e Gerente
+// Baseando - se na classe `Funcionario` do exercício 2, crie uma classe `Gerente`, que:
+// -Herda `Funcionario`.
+// - Possui um método `Bonificar()`, que aumenta o salário em 10%.
+// Crie um objeto da classe `Gerente`, defina um salário, aplique a bonificação e exiba o salário atualizado.
+
+Gerente bonificacao = new Gerente();
+
+bonificacao.SetSalario(2500);
+Console.WriteLine($"O salario do gerente com a bonificação é: R${bonificacao.Bonificar():F2}");

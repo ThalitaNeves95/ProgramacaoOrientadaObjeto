@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace POO
+namespace Exercicios.ContasBancarias
 {
     class ContaBancaria
     {
-        private double _saldo = 0;
+        protected double _saldo = 0;
 
         public void Depositar(double entrada)
         {
@@ -24,5 +24,6 @@ namespace POO
         {
             return _saldo;
         }
+
     }
 }

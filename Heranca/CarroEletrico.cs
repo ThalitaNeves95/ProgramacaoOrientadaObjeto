@@ -10,5 +10,13 @@ namespace Heranca
     {
         public int bateria;
         public int tempoDeCarga;
+
+        public override void MostrarInformacoes()
+        {
+            // base - Classe pai
+            base.MostrarInformacoes();
+            Console.WriteLine("Porcentagem de bateria:" + bateria);
+            Console.WriteLine($"O tempo para a recarga é: {tempoDeCarga} horas");
+        }
     }
 }

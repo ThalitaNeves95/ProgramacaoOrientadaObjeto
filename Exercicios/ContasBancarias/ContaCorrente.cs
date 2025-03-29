@@ -3,16 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using POO;
 
-namespace Exercicios
+namespace Exercicios.ContasBancarias
 {
-    class ContaPoupanca : ContaBancaria
+    class ContaCorrente : ContaBancaria
     {
-        public double RenderJuros(double juros)
+        public void CobrarTaxa(double taxa)
         {
-            return
-
+            _saldo -= taxa;
         }
     }
 }

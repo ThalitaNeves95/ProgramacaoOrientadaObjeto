@@ -20,3 +20,7 @@ carroCombustao.marca = "Toyota";
 carroCombustao.modelo = "Corolla";
 carroCombustao.combustivel = "Flex";
 carroCombustao.quilometragem = 11530;
+
+carroEletrico.MostrarInformacoes();
+
+carroCombustao.MostrarInformacoes("Thalita");

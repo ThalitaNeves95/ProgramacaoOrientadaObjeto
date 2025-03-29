@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fic\\Downloads\\POO\\Heranca\\Heranca.csproj",
+      "projectUniqueName": "C:\\Users\\fic\\Documents\\POO\\Heranca\\Heranca.csproj",
       "projectName": "Heranca",
-      "projectPath": "C:\\Users\\fic\\Downloads\\POO\\Heranca\\Heranca.csproj",
+      "projectPath": "C:\\Users\\fic\\Documents\\POO\\Heranca\\Heranca.csproj",
       "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fic\\Downloads\\POO\\Heranca\\obj\\",
+      "outputPath": "C:\\Users\\fic\\Documents\\POO\\Heranca\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
