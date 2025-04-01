@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\fic\\Documents\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D605996C-2D19-48EA-AB28-87AEDBF7392A}|POO\\POO.csproj|c:\\users\\fic\\documents\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D605996C-2D19-48EA-AB28-87AEDBF7392A}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AAFEC34-DBAF-4C27-99D4-F33A2E922EEA}|Abstracao\\Abstracao.csproj|c:\\users\\fic\\documents\\poo\\abstracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AAFEC34-DBAF-4C27-99D4-F33A2E922EEA}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B181CDE3-70E7-43F8-8897-5A8ED9EA1040}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\poo\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B181CDE3-70E7-43F8-8897-5A8ED9EA1040}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AAFEC34-DBAF-4C27-99D4-F33A2E922EEA}|Abstracao\\Abstracao.csproj|c:\\users\\fic\\documents\\poo\\abstracao\\carromanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AAFEC34-DBAF-4C27-99D4-F33A2E922EEA}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\carromanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B181CDE3-70E7-43F8-8897-5A8ED9EA1040}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\poo\\heranca\\carroeletrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B181CDE3-70E7-43F8-8897-5A8ED9EA1040}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carroeletrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AAFEC34-DBAF-4C27-99D4-F33A2E922EEA}|Abstracao\\Abstracao.csproj|c:\\users\\fic\\documents\\poo\\abstracao\\carroautomatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AAFEC34-DBAF-4C27-99D4-F33A2E922EEA}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\carroautomatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B181CDE3-70E7-43F8-8897-5A8ED9EA1040}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\poo\\heranca\\carrocombustao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B181CDE3-70E7-43F8-8897-5A8ED9EA1040}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carrocombustao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B181CDE3-70E7-43F8-8897-5A8ED9EA1040}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\poo\\heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B181CDE3-70E7-43F8-8897-5A8ED9EA1040}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AAFEC34-DBAF-4C27-99D4-F33A2E922EEA}|Abstracao\\Abstracao.csproj|c:\\users\\fic\\documents\\poo\\abstracao\\icarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AAFEC34-DBAF-4C27-99D4-F33A2E922EEA}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\icarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Documents\\POO\\POO\\Program.cs",
-              "RelativeDocumentMoniker": "POO\\Program.cs",
-              "ToolTip": "C:\\Users\\fic\\Documents\\POO\\POO\\Program.cs",
-              "RelativeToolTip": "POO\\Program.cs",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAAALUAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CarroManual.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\POO\\Abstracao\\CarroManual.cs",
+              "RelativeDocumentMoniker": "Abstracao\\CarroManual.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\POO\\Abstracao\\CarroManual.cs",
+              "RelativeToolTip": "Abstracao\\CarroManual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:50:39.211Z",
+              "WhenOpened": "2025-04-01T22:30:21.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Documents\\POO\\Heranca\\Program.cs",
-              "RelativeDocumentMoniker": "Heranca\\Program.cs",
-              "ToolTip": "C:\\Users\\fic\\Documents\\POO\\Heranca\\Program.cs",
-              "RelativeToolTip": "Heranca\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:27:42.765Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CarroEletrico.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Documents\\POO\\Heranca\\CarroEletrico.cs",
-              "RelativeDocumentMoniker": "Heranca\\CarroEletrico.cs",
-              "ToolTip": "C:\\Users\\fic\\Documents\\POO\\Heranca\\CarroEletrico.cs",
-              "RelativeToolTip": "Heranca\\CarroEletrico.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAXAAAAAAAAAA==",
+              "Title": "CarroAutomatico.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\POO\\Abstracao\\CarroAutomatico.cs",
+              "RelativeDocumentMoniker": "Abstracao\\CarroAutomatico.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\POO\\Abstracao\\CarroAutomatico.cs",
+              "RelativeToolTip": "Abstracao\\CarroAutomatico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:23:07.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Carro.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Documents\\POO\\Heranca\\Carro.cs",
-              "RelativeDocumentMoniker": "Heranca\\Carro.cs",
-              "ToolTip": "C:\\Users\\fic\\Documents\\POO\\Heranca\\Carro.cs",
-              "RelativeToolTip": "Heranca\\Carro.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBQAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:14:53.395Z"
+              "WhenOpened": "2025-04-01T22:24:26.421Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CarroCombustao.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Documents\\POO\\Heranca\\CarroCombustao.cs",
-              "RelativeDocumentMoniker": "Heranca\\CarroCombustao.cs",
-              "ToolTip": "C:\\Users\\fic\\Documents\\POO\\Heranca\\CarroCombustao.cs",
-              "RelativeToolTip": "Heranca\\CarroCombustao.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Title": "ICarro.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\POO\\Abstracao\\ICarro.cs",
+              "RelativeDocumentMoniker": "Abstracao\\ICarro.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\POO\\Abstracao\\ICarro.cs",
+              "RelativeToolTip": "Abstracao\\ICarro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:13:31.476Z"
+              "WhenOpened": "2025-04-01T22:22:07.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\POO\\Abstracao\\Program.cs",
+              "RelativeDocumentMoniker": "Abstracao\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\POO\\Abstracao\\Program.cs",
+              "RelativeToolTip": "Abstracao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:12:54.145Z",
+              "EditorCaption": ""
             }
           ]
         }

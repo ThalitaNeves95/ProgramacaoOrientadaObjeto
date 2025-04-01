@@ -178,5 +178,3 @@
 // Polimorfismo depende de herança
 // Polimorfismo - Um metodo (com mesmo nome) pode ter implementação váriavel
 // Um metodo pode fazer coisas diferentes - Ex.: TrocarMarcha - CarroAutomatico/CarroManual
-
-// Abstração
